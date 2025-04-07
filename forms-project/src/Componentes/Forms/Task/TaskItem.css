@@ -1,0 +1,11 @@
+.task-box {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    display: inline-block;
+}
+
+.task-item {
+    background-color: #d0eaff;
+}
